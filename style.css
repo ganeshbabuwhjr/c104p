@@ -1,0 +1,21 @@
+body{
+    background-image: url("download(1).jpg");
+    color: azure;
+}
+
+.heading{
+    width: 80%;
+    font-size: medium;
+
+}
+#camera{
+    border: 2px dashed yellow;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects{
+    color: wheat;
+    font-size: 30px;
+}
+#result_object_name , #result_object_accuracy { color: yellow; }
